@@ -9,3 +9,14 @@
 .hero-description {
     font-size: 25px;
 }
+
+.new-courses-title {
+    margin-top: 50px;
+    display: inline;
+    border-block-end: 2px solid black
+}
+
+.img-card {
+    width: 280px;
+    justify-content: center
+}
