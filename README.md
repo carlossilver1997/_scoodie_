@@ -1,2 +1,2 @@
 # scoodie
-Scoodie: La mejor opción para aprender a programar
+Scoodie el mejor lugar para aprender a programar
